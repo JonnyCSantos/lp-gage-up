@@ -1,0 +1,86 @@
+.simulate-video {
+    width: 150px;
+    text-align: center;
+    background-color: #cacaca;
+    padding: 150px 300px;
+    margin: 15px auto;
+}
+
+p.text {
+    text-align: center;
+    font-size: 1em;
+}
+
+p.text-bottom {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+p.text-bottom strong {
+    color: #4dcc00;
+}
+
+.input-name {
+    display: inline-block;
+    width: 30%;
+}
+
+.input-name p {
+    color: #fff;
+}
+
+.input-email {
+    display: inline-block;
+    width: 30%;
+    margin-left: 20px;
+}
+
+.input-email p {
+    color: #fff;
+}
+
+.input-name input {
+    width: 100%;
+    border: 1px solid #a2a2a2;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.input-email input {
+    width: 100%;
+    border: 1px solid #a2a2a2;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+section.optin {
+    position: relative;
+    margin-top: 50px;
+    padding: 30px 0;
+    background: #1d9382; /* Old browsers */
+background: -moz-linear-gradient(top, #1d9382 1%, #7db9e8 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #1d9382 1%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #1d9382 1%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1d9382', endColorstr='#7db9e8',GradientType=0 );
+}
+
+p.text-form {
+    padding-bottom: 30px;
+    font-size: 1.3em;
+    color: #fff;
+}
+
+p.text-optin {
+    padding-top: 15px;
+    font-size: .8em;
+    color: #fff;
+}
+
+p.em-breve {
+    font-family: 'Permanent Marker', cursive;    
+    font-size: 1.5em;
+    color: #fff;
+    position: absolute;
+    top: 30px;
+    right: 70px;
+}
